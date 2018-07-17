@@ -14,4 +14,5 @@
 #
 
 class SubscriptionService < ApplicationRecord
+
 end
